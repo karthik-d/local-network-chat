@@ -1,0 +1,4 @@
+192.168.1.100
+192.168.1.101
+You Said : Hello
+192.168.1.101 Said : This is a Local Chat
